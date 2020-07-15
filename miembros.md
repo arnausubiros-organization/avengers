@@ -1,6 +1,7 @@
 # Miembros
 
-* Nick Fury *** _--_ _---_
+* Nick Fury
+
 
 * Capitán America
 * Black panther
